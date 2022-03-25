@@ -357,7 +357,7 @@ gdjs.keybindsCode.condition0IsTrue_0.val = gdjs.evtTools.variable.getVariableNum
 }if ( gdjs.keybindsCode.condition0IsTrue_0.val ) {
 {
 {gdjs.keybindsCode.conditionTrue_1 = gdjs.keybindsCode.condition1IsTrue_0;
-gdjs.keybindsCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(24559156);
+gdjs.keybindsCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(21398212);
 }
 }}
 if (gdjs.keybindsCode.condition1IsTrue_0.val) {

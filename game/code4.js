@@ -836,7 +836,7 @@ gdjs.Defult_32songCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCol
 }if ( gdjs.Defult_32songCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Defult_32songCode.conditionTrue_1 = gdjs.Defult_32songCode.condition1IsTrue_0;
-gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(24991804);
+gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22198884);
 }
 }}
 if (gdjs.Defult_32songCode.condition1IsTrue_0.val) {
@@ -868,7 +868,7 @@ gdjs.Defult_32songCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCol
 }if ( gdjs.Defult_32songCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Defult_32songCode.conditionTrue_1 = gdjs.Defult_32songCode.condition1IsTrue_0;
-gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(24989132);
+gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22199492);
 }
 }}
 if (gdjs.Defult_32songCode.condition1IsTrue_0.val) {
@@ -900,7 +900,7 @@ gdjs.Defult_32songCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCol
 }if ( gdjs.Defult_32songCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Defult_32songCode.conditionTrue_1 = gdjs.Defult_32songCode.condition1IsTrue_0;
-gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25002252);
+gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22201324);
 }
 }}
 if (gdjs.Defult_32songCode.condition1IsTrue_0.val) {
@@ -932,7 +932,7 @@ gdjs.Defult_32songCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCol
 }if ( gdjs.Defult_32songCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Defult_32songCode.conditionTrue_1 = gdjs.Defult_32songCode.condition1IsTrue_0;
-gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25007900);
+gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22202548);
 }
 }}
 if (gdjs.Defult_32songCode.condition1IsTrue_0.val) {
@@ -984,7 +984,7 @@ gdjs.Defult_32songCode.condition1IsTrue_0.val = gdjs.evtTools.variable.getVariab
 }if ( gdjs.Defult_32songCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Defult_32songCode.conditionTrue_1 = gdjs.Defult_32songCode.condition2IsTrue_0;
-gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(24986772);
+gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22204836);
 }
 }}
 }
@@ -1040,7 +1040,7 @@ gdjs.Defult_32songCode.condition1IsTrue_0.val = gdjs.evtTools.variable.getVariab
 }if ( gdjs.Defult_32songCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Defult_32songCode.conditionTrue_1 = gdjs.Defult_32songCode.condition2IsTrue_0;
-gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(24983100);
+gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22207388);
 }
 }}
 }
@@ -1096,7 +1096,7 @@ gdjs.Defult_32songCode.condition1IsTrue_0.val = gdjs.evtTools.variable.getVariab
 }if ( gdjs.Defult_32songCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Defult_32songCode.conditionTrue_1 = gdjs.Defult_32songCode.condition2IsTrue_0;
-gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25006412);
+gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22209812);
 }
 }}
 }
@@ -1152,7 +1152,7 @@ gdjs.Defult_32songCode.condition1IsTrue_0.val = gdjs.evtTools.variable.getVariab
 }if ( gdjs.Defult_32songCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Defult_32songCode.conditionTrue_1 = gdjs.Defult_32songCode.condition2IsTrue_0;
-gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(24959188);
+gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22212612);
 }
 }}
 }
@@ -1364,7 +1364,7 @@ gdjs.Defult_32songCode.condition2IsTrue_0.val = gdjs.evtTools.variable.getVariab
 }if ( gdjs.Defult_32songCode.condition2IsTrue_0.val ) {
 {
 {gdjs.Defult_32songCode.conditionTrue_1 = gdjs.Defult_32songCode.condition3IsTrue_0;
-gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(24952204);
+gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22221052);
 }
 }}
 }
@@ -1445,7 +1445,7 @@ gdjs.Defult_32songCode.condition2IsTrue_0.val = gdjs.evtTools.variable.getVariab
 }if ( gdjs.Defult_32songCode.condition2IsTrue_0.val ) {
 {
 {gdjs.Defult_32songCode.conditionTrue_1 = gdjs.Defult_32songCode.condition3IsTrue_0;
-gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(24955860);
+gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22224404);
 }
 }}
 }
@@ -1526,7 +1526,7 @@ gdjs.Defult_32songCode.condition2IsTrue_0.val = gdjs.evtTools.variable.getVariab
 }if ( gdjs.Defult_32songCode.condition2IsTrue_0.val ) {
 {
 {gdjs.Defult_32songCode.conditionTrue_1 = gdjs.Defult_32songCode.condition3IsTrue_0;
-gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25010700);
+gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22227876);
 }
 }}
 }
@@ -1607,7 +1607,7 @@ gdjs.Defult_32songCode.condition2IsTrue_0.val = gdjs.evtTools.variable.getVariab
 }if ( gdjs.Defult_32songCode.condition2IsTrue_0.val ) {
 {
 {gdjs.Defult_32songCode.conditionTrue_1 = gdjs.Defult_32songCode.condition3IsTrue_0;
-gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25013452);
+gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22231660);
 }
 }}
 }
@@ -1664,7 +1664,7 @@ if( gdjs.Defult_32songCode.condition1IsTrue_1.val ) {
 }if ( gdjs.Defult_32songCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Defult_32songCode.conditionTrue_1 = gdjs.Defult_32songCode.condition1IsTrue_0;
-gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25015460);
+gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22234492);
 }
 }}
 if (gdjs.Defult_32songCode.condition1IsTrue_0.val) {
@@ -1711,7 +1711,7 @@ if( gdjs.Defult_32songCode.condition1IsTrue_1.val ) {
 }if ( gdjs.Defult_32songCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Defult_32songCode.conditionTrue_1 = gdjs.Defult_32songCode.condition1IsTrue_0;
-gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25018348);
+gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22236732);
 }
 }}
 if (gdjs.Defult_32songCode.condition1IsTrue_0.val) {
@@ -1758,7 +1758,7 @@ if( gdjs.Defult_32songCode.condition1IsTrue_1.val ) {
 }if ( gdjs.Defult_32songCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Defult_32songCode.conditionTrue_1 = gdjs.Defult_32songCode.condition1IsTrue_0;
-gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25020380);
+gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22239700);
 }
 }}
 if (gdjs.Defult_32songCode.condition1IsTrue_0.val) {
@@ -1805,7 +1805,7 @@ if( gdjs.Defult_32songCode.condition1IsTrue_1.val ) {
 }if ( gdjs.Defult_32songCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Defult_32songCode.conditionTrue_1 = gdjs.Defult_32songCode.condition1IsTrue_0;
-gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25022436);
+gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22241652);
 }
 }}
 if (gdjs.Defult_32songCode.condition1IsTrue_0.val) {
@@ -2339,7 +2339,7 @@ for(var i = 0, k = 0, l = gdjs.Defult_32songCode.GDboyfriendObjects4.length;i<l;
 gdjs.Defult_32songCode.GDboyfriendObjects4.length = k;}if ( gdjs.Defult_32songCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Defult_32songCode.conditionTrue_1 = gdjs.Defult_32songCode.condition1IsTrue_0;
-gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25005764);
+gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22196388);
 }
 }}
 if (gdjs.Defult_32songCode.condition1IsTrue_0.val) {
@@ -2901,7 +2901,7 @@ gdjs.Defult_32songCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.getTi
 }if ( gdjs.Defult_32songCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Defult_32songCode.conditionTrue_1 = gdjs.Defult_32songCode.condition1IsTrue_0;
-gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25056572);
+gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22278540);
 }
 }}
 if (gdjs.Defult_32songCode.condition1IsTrue_0.val) {
@@ -3172,7 +3172,7 @@ gdjs.Defult_32songCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.getTi
 }if ( gdjs.Defult_32songCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Defult_32songCode.conditionTrue_1 = gdjs.Defult_32songCode.condition1IsTrue_0;
-gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25074412);
+gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22318820);
 }
 }}
 if (gdjs.Defult_32songCode.condition1IsTrue_0.val) {
@@ -3192,7 +3192,7 @@ gdjs.Defult_32songCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.getTi
 }if ( gdjs.Defult_32songCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Defult_32songCode.conditionTrue_1 = gdjs.Defult_32songCode.condition1IsTrue_0;
-gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25075108);
+gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22319884);
 }
 }}
 if (gdjs.Defult_32songCode.condition1IsTrue_0.val) {
@@ -3245,7 +3245,7 @@ gdjs.Defult_32songCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.getTi
 }if ( gdjs.Defult_32songCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Defult_32songCode.conditionTrue_1 = gdjs.Defult_32songCode.condition1IsTrue_0;
-gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25078268);
+gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22323948);
 }
 }}
 if (gdjs.Defult_32songCode.condition1IsTrue_0.val) {
@@ -3268,7 +3268,7 @@ gdjs.Defult_32songCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.getTi
 }if ( gdjs.Defult_32songCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Defult_32songCode.conditionTrue_1 = gdjs.Defult_32songCode.condition1IsTrue_0;
-gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25079180);
+gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22325108);
 }
 }}
 if (gdjs.Defult_32songCode.condition1IsTrue_0.val) {
@@ -3291,7 +3291,7 @@ gdjs.Defult_32songCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.getTi
 }if ( gdjs.Defult_32songCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Defult_32songCode.conditionTrue_1 = gdjs.Defult_32songCode.condition1IsTrue_0;
-gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25080092);
+gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22326420);
 }
 }}
 if (gdjs.Defult_32songCode.condition1IsTrue_0.val) {
@@ -3331,7 +3331,7 @@ for(var i = 0, k = 0, l = gdjs.Defult_32songCode.GDadd_95all_95assets_95hereObje
 gdjs.Defult_32songCode.GDadd_95all_95assets_95hereObjects2.length = k;}if ( gdjs.Defult_32songCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Defult_32songCode.conditionTrue_1 = gdjs.Defult_32songCode.condition2IsTrue_0;
-gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25081156);
+gdjs.Defult_32songCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22328100);
 }
 }}
 }
