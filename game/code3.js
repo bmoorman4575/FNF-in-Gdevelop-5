@@ -411,7 +411,7 @@ for(var i = 0, k = 0, l = gdjs.Chart_32editorCode.GDleftnotesenemyObjects6.lengt
 gdjs.Chart_32editorCode.GDleftnotesenemyObjects6.length = k;}if ( gdjs.Chart_32editorCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition1IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(21937284);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25863300);
 }
 }}
 if (gdjs.Chart_32editorCode.condition1IsTrue_0.val) {
@@ -475,7 +475,7 @@ for(var i = 0, k = 0, l = gdjs.Chart_32editorCode.GDdownnotesenemyObjects6.lengt
 gdjs.Chart_32editorCode.GDdownnotesenemyObjects6.length = k;}if ( gdjs.Chart_32editorCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition1IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(21943580);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25866988);
 }
 }}
 if (gdjs.Chart_32editorCode.condition1IsTrue_0.val) {
@@ -539,7 +539,7 @@ for(var i = 0, k = 0, l = gdjs.Chart_32editorCode.GDupnotesenemyObjects6.length;
 gdjs.Chart_32editorCode.GDupnotesenemyObjects6.length = k;}if ( gdjs.Chart_32editorCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition1IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(21950100);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25870892);
 }
 }}
 if (gdjs.Chart_32editorCode.condition1IsTrue_0.val) {
@@ -602,7 +602,7 @@ for(var i = 0, k = 0, l = gdjs.Chart_32editorCode.GDrightnotesenemyObjects5.leng
 gdjs.Chart_32editorCode.GDrightnotesenemyObjects5.length = k;}if ( gdjs.Chart_32editorCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition1IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(21956412);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25874980);
 }
 }}
 if (gdjs.Chart_32editorCode.condition1IsTrue_0.val) {
@@ -660,7 +660,7 @@ if( gdjs.Chart_32editorCode.condition1IsTrue_1.val ) {
 }if ( gdjs.Chart_32editorCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition1IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(21935028);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25860716);
 }
 }}
 if (gdjs.Chart_32editorCode.condition1IsTrue_0.val) {
@@ -708,7 +708,7 @@ if( gdjs.Chart_32editorCode.condition1IsTrue_1.val ) {
 }if ( gdjs.Chart_32editorCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition1IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(21940780);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25865460);
 }
 }}
 if (gdjs.Chart_32editorCode.condition1IsTrue_0.val) {
@@ -756,7 +756,7 @@ if( gdjs.Chart_32editorCode.condition1IsTrue_1.val ) {
 }if ( gdjs.Chart_32editorCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition1IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(21947684);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25869556);
 }
 }}
 if (gdjs.Chart_32editorCode.condition1IsTrue_0.val) {
@@ -804,7 +804,7 @@ if( gdjs.Chart_32editorCode.condition1IsTrue_1.val ) {
 }if ( gdjs.Chart_32editorCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition1IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(21953612);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25873292);
 }
 }}
 if (gdjs.Chart_32editorCode.condition1IsTrue_0.val) {
@@ -860,7 +860,7 @@ for(var i = 0, k = 0, l = gdjs.Chart_32editorCode.GDleftholdnotesenemyObjects6.l
 gdjs.Chart_32editorCode.GDleftholdnotesenemyObjects6.length = k;}if ( gdjs.Chart_32editorCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition1IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(21963700);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25879508);
 }
 }}
 if (gdjs.Chart_32editorCode.condition1IsTrue_0.val) {
@@ -923,7 +923,7 @@ for(var i = 0, k = 0, l = gdjs.Chart_32editorCode.GDdownholdnotesenemyObjects6.l
 gdjs.Chart_32editorCode.GDdownholdnotesenemyObjects6.length = k;}if ( gdjs.Chart_32editorCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition1IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(21970700);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25883852);
 }
 }}
 if (gdjs.Chart_32editorCode.condition1IsTrue_0.val) {
@@ -986,7 +986,7 @@ for(var i = 0, k = 0, l = gdjs.Chart_32editorCode.GDupholdnotesenemyObjects6.len
 gdjs.Chart_32editorCode.GDupholdnotesenemyObjects6.length = k;}if ( gdjs.Chart_32editorCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition1IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(21977860);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25888236);
 }
 }}
 if (gdjs.Chart_32editorCode.condition1IsTrue_0.val) {
@@ -1051,7 +1051,7 @@ for(var i = 0, k = 0, l = gdjs.Chart_32editorCode.GDrightholdnotesenemyObjects5.
 gdjs.Chart_32editorCode.GDrightholdnotesenemyObjects5.length = k;}if ( gdjs.Chart_32editorCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition1IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(21984876);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25892588);
 }
 }}
 if (gdjs.Chart_32editorCode.condition1IsTrue_0.val) {
@@ -1117,7 +1117,7 @@ gdjs.Chart_32editorCode.condition2IsTrue_0.val = gdjs.evtsExt__RepeatEveryXSecon
 }if ( gdjs.Chart_32editorCode.condition2IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition3IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(21960948);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25877612);
 }
 }}
 }
@@ -1175,7 +1175,7 @@ gdjs.Chart_32editorCode.condition2IsTrue_0.val = gdjs.evtsExt__RepeatEveryXSecon
 }if ( gdjs.Chart_32editorCode.condition2IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition3IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(21967948);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25882220);
 }
 }}
 }
@@ -1233,7 +1233,7 @@ gdjs.Chart_32editorCode.condition2IsTrue_0.val = gdjs.evtsExt__RepeatEveryXSecon
 }if ( gdjs.Chart_32editorCode.condition2IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition3IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(21975340);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25886604);
 }
 }}
 }
@@ -1291,7 +1291,7 @@ gdjs.Chart_32editorCode.condition2IsTrue_0.val = gdjs.evtsExt__RepeatEveryXSecon
 }if ( gdjs.Chart_32editorCode.condition2IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition3IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(21982124);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25890732);
 }
 }}
 }
@@ -1373,7 +1373,7 @@ for(var i = 0, k = 0, l = gdjs.Chart_32editorCode.GDleftnotesObjects6.length;i<l
 gdjs.Chart_32editorCode.GDleftnotesObjects6.length = k;}if ( gdjs.Chart_32editorCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition1IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(21990492);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25897076);
 }
 }}
 if (gdjs.Chart_32editorCode.condition1IsTrue_0.val) {
@@ -1436,7 +1436,7 @@ for(var i = 0, k = 0, l = gdjs.Chart_32editorCode.GDdownnotesObjects6.length;i<l
 gdjs.Chart_32editorCode.GDdownnotesObjects6.length = k;}if ( gdjs.Chart_32editorCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition1IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(21995204);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25900724);
 }
 }}
 if (gdjs.Chart_32editorCode.condition1IsTrue_0.val) {
@@ -1499,7 +1499,7 @@ for(var i = 0, k = 0, l = gdjs.Chart_32editorCode.GDupnotesObjects6.length;i<l;+
 gdjs.Chart_32editorCode.GDupnotesObjects6.length = k;}if ( gdjs.Chart_32editorCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition1IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22000196);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25904396);
 }
 }}
 if (gdjs.Chart_32editorCode.condition1IsTrue_0.val) {
@@ -1562,7 +1562,7 @@ for(var i = 0, k = 0, l = gdjs.Chart_32editorCode.GDrightnotesObjects5.length;i<
 gdjs.Chart_32editorCode.GDrightnotesObjects5.length = k;}if ( gdjs.Chart_32editorCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition1IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22005012);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25908044);
 }
 }}
 if (gdjs.Chart_32editorCode.condition1IsTrue_0.val) {
@@ -1620,7 +1620,7 @@ if( gdjs.Chart_32editorCode.condition1IsTrue_1.val ) {
 }if ( gdjs.Chart_32editorCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition1IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(21988684);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25894860);
 }
 }}
 if (gdjs.Chart_32editorCode.condition1IsTrue_0.val) {
@@ -1668,7 +1668,7 @@ if( gdjs.Chart_32editorCode.condition1IsTrue_1.val ) {
 }if ( gdjs.Chart_32editorCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition1IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(21993436);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25898388);
 }
 }}
 if (gdjs.Chart_32editorCode.condition1IsTrue_0.val) {
@@ -1716,7 +1716,7 @@ if( gdjs.Chart_32editorCode.condition1IsTrue_1.val ) {
 }if ( gdjs.Chart_32editorCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition1IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(21998668);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25903012);
 }
 }}
 if (gdjs.Chart_32editorCode.condition1IsTrue_0.val) {
@@ -1764,7 +1764,7 @@ if( gdjs.Chart_32editorCode.condition1IsTrue_1.val ) {
 }if ( gdjs.Chart_32editorCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition1IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22003188);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25906660);
 }
 }}
 if (gdjs.Chart_32editorCode.condition1IsTrue_0.val) {
@@ -1819,7 +1819,7 @@ for(var i = 0, k = 0, l = gdjs.Chart_32editorCode.GDleftholdnotesObjects6.length
 gdjs.Chart_32editorCode.GDleftholdnotesObjects6.length = k;}if ( gdjs.Chart_32editorCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition1IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22011148);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25912412);
 }
 }}
 if (gdjs.Chart_32editorCode.condition1IsTrue_0.val) {
@@ -1882,7 +1882,7 @@ for(var i = 0, k = 0, l = gdjs.Chart_32editorCode.GDdownholdnotesObjects6.length
 gdjs.Chart_32editorCode.GDdownholdnotesObjects6.length = k;}if ( gdjs.Chart_32editorCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition1IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22017900);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25916620);
 }
 }}
 if (gdjs.Chart_32editorCode.condition1IsTrue_0.val) {
@@ -1945,7 +1945,7 @@ for(var i = 0, k = 0, l = gdjs.Chart_32editorCode.GDupholdnotesObjects6.length;i
 gdjs.Chart_32editorCode.GDupholdnotesObjects6.length = k;}if ( gdjs.Chart_32editorCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition1IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22024756);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25920844);
 }
 }}
 if (gdjs.Chart_32editorCode.condition1IsTrue_0.val) {
@@ -2009,7 +2009,7 @@ for(var i = 0, k = 0, l = gdjs.Chart_32editorCode.GDrightholdnotesObjects5.lengt
 gdjs.Chart_32editorCode.GDrightholdnotesObjects5.length = k;}if ( gdjs.Chart_32editorCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition1IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22031524);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25925068);
 }
 }}
 if (gdjs.Chart_32editorCode.condition1IsTrue_0.val) {
@@ -2075,7 +2075,7 @@ gdjs.Chart_32editorCode.condition2IsTrue_0.val = gdjs.evtsExt__RepeatEveryXSecon
 }if ( gdjs.Chart_32editorCode.condition2IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition3IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22008852);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25910860);
 }
 }}
 }
@@ -2133,7 +2133,7 @@ gdjs.Chart_32editorCode.condition2IsTrue_0.val = gdjs.evtsExt__RepeatEveryXSecon
 }if ( gdjs.Chart_32editorCode.condition2IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition3IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22015604);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25915068);
 }
 }}
 }
@@ -2191,7 +2191,7 @@ gdjs.Chart_32editorCode.condition2IsTrue_0.val = gdjs.evtsExt__RepeatEveryXSecon
 }if ( gdjs.Chart_32editorCode.condition2IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition3IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22022636);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25919556);
 }
 }}
 }
@@ -2249,7 +2249,7 @@ gdjs.Chart_32editorCode.condition2IsTrue_0.val = gdjs.evtsExt__RepeatEveryXSecon
 }if ( gdjs.Chart_32editorCode.condition2IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition3IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22029228);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25923516);
 }
 }}
 }
@@ -2302,7 +2302,7 @@ gdjs.Chart_32editorCode.condition0IsTrue_0.val = gdjs.evtTools.input.wasKeyRelea
 }if ( gdjs.Chart_32editorCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition1IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22036796);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25928876);
 }
 }}
 if (gdjs.Chart_32editorCode.condition1IsTrue_0.val) {
@@ -2944,7 +2944,7 @@ gdjs.Chart_32editorCode.condition0IsTrue_0.val = gdjs.evtTools.input.wasKeyRelea
 }if ( gdjs.Chart_32editorCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition1IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22035108);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25927476);
 }
 }}
 if (gdjs.Chart_32editorCode.condition1IsTrue_0.val) {
@@ -3001,7 +3001,7 @@ gdjs.copyArray(runtimeScene.getObjects("compiling"), gdjs.Chart_32editorCode.GDc
 gdjs.Chart_32editorCode.condition0IsTrue_0.val = false;
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition0IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22083540);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25963092);
 }
 }if (gdjs.Chart_32editorCode.condition0IsTrue_0.val) {
 gdjs.copyArray(runtimeScene.getObjects("downholdnotes"), gdjs.Chart_32editorCode.GDdownholdnotesObjects2);
@@ -3083,7 +3083,7 @@ gdjs.copyArray(runtimeScene.getObjects("upnotesenemy"), gdjs.Chart_32editorCode.
 gdjs.Chart_32editorCode.condition0IsTrue_0.val = false;
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition0IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22087372);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25967268);
 }
 }if (gdjs.Chart_32editorCode.condition0IsTrue_0.val) {
 gdjs.copyArray(runtimeScene.getObjects("downholdnotes"), gdjs.Chart_32editorCode.GDdownholdnotesObjects1);
@@ -3167,7 +3167,7 @@ gdjs.copyArray(runtimeScene.getObjects("upnotesenemy"), gdjs.Chart_32editorCode.
 gdjs.Chart_32editorCode.condition0IsTrue_0.val = false;
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition0IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22102612);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25974844);
 }
 }if (gdjs.Chart_32editorCode.condition0IsTrue_0.val) {
 gdjs.copyArray(runtimeScene.getObjects("downholdnotes"), gdjs.Chart_32editorCode.GDdownholdnotesObjects2);
@@ -3249,7 +3249,7 @@ gdjs.copyArray(runtimeScene.getObjects("upnotesenemy"), gdjs.Chart_32editorCode.
 gdjs.Chart_32editorCode.condition0IsTrue_0.val = false;
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition0IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22106444);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25979020);
 }
 }if (gdjs.Chart_32editorCode.condition0IsTrue_0.val) {
 gdjs.copyArray(runtimeScene.getObjects("downholdnotes"), gdjs.Chart_32editorCode.GDdownholdnotesObjects1);
@@ -3339,7 +3339,7 @@ gdjs.Chart_32editorCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCo
 }if ( gdjs.Chart_32editorCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition1IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22122492);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25986268);
 }
 }}
 if (gdjs.Chart_32editorCode.condition1IsTrue_0.val) {
@@ -3364,7 +3364,7 @@ gdjs.Chart_32editorCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCo
 }if ( gdjs.Chart_32editorCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition1IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22123420);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25986964);
 }
 }}
 if (gdjs.Chart_32editorCode.condition1IsTrue_0.val) {
@@ -3389,7 +3389,7 @@ gdjs.Chart_32editorCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCo
 }if ( gdjs.Chart_32editorCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition1IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22124372);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25988036);
 }
 }}
 if (gdjs.Chart_32editorCode.condition1IsTrue_0.val) {
@@ -3414,7 +3414,7 @@ gdjs.Chart_32editorCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCo
 }if ( gdjs.Chart_32editorCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition1IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22125316);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25989164);
 }
 }}
 if (gdjs.Chart_32editorCode.condition1IsTrue_0.val) {
@@ -3464,7 +3464,7 @@ gdjs.Chart_32editorCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCo
 }if ( gdjs.Chart_32editorCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition1IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22127276);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25990524);
 }
 }}
 if (gdjs.Chart_32editorCode.condition1IsTrue_0.val) {
@@ -3489,7 +3489,7 @@ gdjs.Chart_32editorCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCo
 }if ( gdjs.Chart_32editorCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition1IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22128444);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25991340);
 }
 }}
 if (gdjs.Chart_32editorCode.condition1IsTrue_0.val) {
@@ -3514,7 +3514,7 @@ gdjs.Chart_32editorCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCo
 }if ( gdjs.Chart_32editorCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition1IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22129484);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25992276);
 }
 }}
 if (gdjs.Chart_32editorCode.condition1IsTrue_0.val) {
@@ -3539,7 +3539,7 @@ gdjs.Chart_32editorCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCo
 }if ( gdjs.Chart_32editorCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition1IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22130516);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25993236);
 }
 }}
 if (gdjs.Chart_32editorCode.condition1IsTrue_0.val) {
@@ -3664,7 +3664,7 @@ gdjs.Chart_32editorCode.condition1IsTrue_0.val = gdjs.evtTools.input.cursorOnObj
 }if ( gdjs.Chart_32editorCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition2IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22079180);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25959220);
 }
 }}
 }
@@ -3691,7 +3691,7 @@ gdjs.Chart_32editorCode.condition1IsTrue_0.val = gdjs.evtTools.input.cursorOnObj
 }if ( gdjs.Chart_32editorCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition2IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22081220);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25960612);
 }
 }}
 }
@@ -3717,7 +3717,7 @@ gdjs.Chart_32editorCode.condition1IsTrue_0.val = gdjs.evtTools.input.cursorOnObj
 }if ( gdjs.Chart_32editorCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition2IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22082548);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25961756);
 }
 }}
 }
@@ -3747,7 +3747,7 @@ gdjs.Chart_32editorCode.condition1IsTrue_0.val = gdjs.evtTools.input.cursorOnObj
 }if ( gdjs.Chart_32editorCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Chart_32editorCode.conditionTrue_1 = gdjs.Chart_32editorCode.condition2IsTrue_0;
-gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22101620);
+gdjs.Chart_32editorCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(25973796);
 }
 }}
 }
